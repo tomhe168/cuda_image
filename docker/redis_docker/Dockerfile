@@ -1,1 +1,1 @@
-FROM redis-server
+FROM redis
